@@ -5,6 +5,7 @@ function ShoppingCart() {
   return (
     <Container>
       <Header as="h2">Shopping Cart</Header>
+      {/* Show products from Shopping Cart context */}
     </Container>
   );
 }
